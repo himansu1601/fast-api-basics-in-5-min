@@ -1,4 +1,4 @@
-# FastAPI Basics in 5 minutes
+# FastAPI in 5 minutes
 
 ## Introduction:
 
@@ -8,27 +8,11 @@
 
 ## Installation:
 
-### *Step 1:* **Install fastapi using pip**
+### _Step 1:_ **Install fastapi using pip**
 
-### *Step 2:* **Install an ASGI server such as Uvicorn or Hypercorn.**
+### _Step 2:_ **Install an ASGI server such as Uvicorn or Hypercorn.**
 
-***DONE!***
+**_DONE!_**
 
-<head>
-    <link rel="stylesheet" href="assets/termynal.css">
-    <link href="https://fonts.googleapis.com/css?family=Fira+Mono">
-    </head>
-<body>
-    <div id="termynal" data-termynal>
-        <span data-ty="input">pip install fastapi</span>
-        <span data-ty="progress"></span>
-        <span data-ty>Successfully installed fastapi</span>
-        <span data-ty></span>
-        <span data-ty="input">pip install uvicorn[standard]</span>
-        <span data-ty="progress"></span>
-        <span data-ty>Successfully installed uvicorn[standard]</span>
-        <span data-ty></span>
-    </div>
-    <script src="assets/termynal.js" data-termynal-container="#termynal"></script>
-</body>
+![Preview](previews/preview.gif)
 
